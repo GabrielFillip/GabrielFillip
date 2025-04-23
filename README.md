@@ -1,54 +1,54 @@
-### Ola  👋
+### Olá, eu sou o Gabriel Fillip 👋
+
 <p align="center">
- <img src="https://github.com/GabrielFillip/GabrielFillip/assets/142547884/68a5f548-4e8b-44e5-962f-59220c2ed5b0" height="350" />
+  <img src="https://github.com/GabrielFillip/GabrielFillip/assets/142547884/68a5f548-4e8b-44e5-962f-59220c2ed5b0" height="350" />
 </p>
 
+Sou estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Franca e apaixonado por tecnologia desde criança. Sempre fui curioso, autodidata, e hoje estou focado em construir soluções web e mobile que sejam funcionais, intuitivas e bem estruturadas.
 
+---
 
-Me chamo Gabriel Fillip:
+### 🚀 Sobre mim:
 
-- 🔭 Sou um estudante da Fatec - Franca, atualmente cursando DMS (Desenvolvimento de software multiplataforma)
+- 👨‍🎓 Estudante de DSM - FATEC Franca (Previsão de término: 2026)
+- 🧠 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
+- 💼 Em busca de oportunidades para aplicar meus conhecimentos e evoluir profissionalmente
+- ⚡ Fun fact: Desde muito novo exploro e estudo tecnologia de forma autodidata
 
+---
 
-- 🌱 Estou sempre aprendendo novas tecnologias.
-- 👯 Estou a procura de desenvolvimento profissional na area
-- 📫 area de contato logo abaixo.
-- ⚡ Fun fact: Me identifico na area de tecnologia desde muito cedo.
+### 💻 Tech Stack
 
-<br>
+**Linguagens e Tecnologias:**
 
-### Developer Tools: 
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" /></a>
 
-<a href="https://github.com/GabrielFillip">
-  <img align="center" alt="icon-javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</a>
-<a href="https://github.com/GabrielFillip">
-  <img align="center" alt="icon-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</a>
-<a href="https://github.com/GabrielFillip">
-  <img align="center" alt="icon-html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-</a>
-<a href="https://github.com/GabrielFillip">
-  <img align="center" alt="icon-css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</a>
+---
 
-<br><br>
+### 🛠️ Ferramentas
 
-### Software Tools: 
-<div Style="Display: Flex">
+<a href="#"><img src="https://github.com/GabrielFillip/GabrielFillip/assets/142547884/3952a249-271b-4f49-a631-4154998b69ce" height="40" /></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/></a>
 
-  <img alt="icon-linkedin" src="https://github.com/GabrielFillip/GabrielFillip/assets/142547884/3952a249-271b-4f49-a631-4154998b69ce">
+---
 
-  <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
+### 📬 Contato
 
-</div>
-<br>
-<br>
-
-## CONTATOS: 
 <a href="https://www.linkedin.com/in/gabriel-fillip-a1ba0b258/" target="_blank">
-  <img align="center" alt="icon-linkedin" src="https://github.com/GabrielFillip/GabrielFillip/assets/142547884/a11e3142-b045-4b49-a4f3-3bc113d83bb2">
+  <img src="https://github.com/GabrielFillip/GabrielFillip/assets/142547884/a11e3142-b045-4b49-a4f3-3bc113d83bb2" height="40" alt="LinkedIn"/>
 </a>
+
+---
+
+🔗 **Veja meus projetos mais recentes:**  
+📁 [github.com/GabrielFillip?tab=repositories](https://github.com/GabrielFillip?tab=repositories)
 
 
 
